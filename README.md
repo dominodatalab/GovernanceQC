@@ -17,6 +17,9 @@ The app currently contains **three main tabs**:
   - **Created Date**
 - The table is fully scrollable, sortable, and adapts to available screen width.
 
+  <img width="2880" height="4071" alt="image" src="https://github.com/user-attachments/assets/ff93af0a-8d72-4001-9567-f8e7b2b61682" />
+
+
 ### 2. History  
 - Allows selection of a specific bundle to view its **audit trail**.
 - **Stage Change Timeline**:
@@ -28,11 +31,17 @@ The app currently contains **three main tabs**:
 - **Audit Log Table**:
   - Lists timestamp, user, event type, project, change type, before/after values, and notes for each audit event.
 
+    <img width="2880" height="3088" alt="image" src="https://github.com/user-attachments/assets/852529ef-53bf-4962-81dc-264a23ebddc2" />
+
+
 ### 3. Metrics  
 - Displays high-level metrics for all bundles:
   - **Bundles by Current Stage** (bar chart).
   - **Days Since Created** for each bundle in its current stage.
 - Helps identify bottlenecks and track throughput.
+
+<img width="2880" height="1410" alt="image" src="https://github.com/user-attachments/assets/ccd23903-00fd-4de1-9f8b-627382338134" />
+
 
 ## Technology Stack
 - **Frontend/UI**: [Streamlit](https://streamlit.io/)
