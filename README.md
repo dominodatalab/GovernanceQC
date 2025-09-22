@@ -17,7 +17,8 @@ The app currently contains **three main tabs**:
   - **Created Date**
 - The table is fully scrollable, sortable, and adapts to available screen width.
 
-  <img width="2880" height="4071" alt="image" src="https://github.com/user-attachments/assets/ff93af0a-8d72-4001-9567-f8e7b2b61682" />
+<img width="2880" height="1410" alt="image" src="https://github.com/user-attachments/assets/4ea4baf6-c7bd-4a42-a4c5-799457212064" />
+
 
 
 ### 2. History  
